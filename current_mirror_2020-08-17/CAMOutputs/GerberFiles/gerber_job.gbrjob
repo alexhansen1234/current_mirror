@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-08-17T21:09:58Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "current_mirror"
+        },
+        "Owner": "Alex Hansen <ajhansen@mail.usf.edu>",
+        "Size": {
+            "X": 165.354,
+            "Y": 88.9
+        }
+    }
+}
